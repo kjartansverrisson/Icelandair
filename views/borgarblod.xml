@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<data>
+	
+	<!-- swf skrár sem loada er inn í auglýsingarpláss -->
+	
+	<startSWF>
+        <item contentID="1">/ads/XZ/mini_ferdablad.swf</item>
+		<item contentID="2">/ads/XZ/mini_ferdablad.swf</item>
+		<item contentID="3">/ads/XZ/mini_ferdablad.swf</item>
+	</startSWF>
+	
+	<!-- Borgir sem birtast í miðju dálk -->
+	
+	<cities>
+		<city>
+			<img>http://icelandairdev.appspot.com/images/koben2.jpg</img>
+			<title><![CDATA[MÍN<br />KÖBEN]]></title>
+			<text><![CDATA[Flug aðra leiðina frá<br /><b><font color="#F39504">14.500 kr.</font></b>]]></text>
+			<link><![CDATA[http://www.icelandair.is/destinations/flights/item13101/flug-til-kaupmannahafnar/?utm_source=visir.is&utm_medium=banner&utm_content=Copenhagen&utm_campaign=Borgarherfer%C3%B0]]></link>                                        
+		</city>
+		<city>
+			<img>http://icelandairdev.appspot.com/images/halifax2.jpg</img>
+			<title><![CDATA[MÍN<br />MINNEAPOLIS]]></title>
+			<text><![CDATA[Flug aðra leiðina frá<br /><b><font color="#F39504">28.630 kr.</font></b>]]></text>
+			<link><![CDATA[http://www.icelandair.is/destinations/flights/item13090/flug-til-minneapolis-st-paul/?utm_source=visir.is&utm_medium=banner&utm_content=Minneapolis&utm_campaign=Borgarherfer%C3%B0]]></link>                                        
+		</city>                                                                 
+		   
+	</cities>
+	
+	<!-- Mynd í vinsti dálk -->
+	<paper>
+		<img><![CDATA[http://icelandairdev.appspot.com/images/forsida_cph_min_orl.jpg]]></img>
+		<link><![CDATA[http://icelandairdev.appspot.com]]></link>
+	</paper>
+	
+	<!-- Mismundi state´s í hægri dálk -->
+	<content>
+		<item id="1" type="text">
+			<info>
+				<text><![CDATA[Ævintýrasumar sem aldrei gleymist. 55% BARNAAFSLÁTTUR til allra áfangastaða í Evrópu.]]></text>
+				<title></title>
+				<link><![CDATA[http://www.icelandair.is/offers-and-bookings/book-packages/airfare/item239539/?utm_source=visir.is&utm_medium=bannerutm_content=Barnaafslattur&utm_campaign=Borgarherfer%C3%B0]]></link>
+			</info>
+		</item>
+		<item id="2" type="video">
+			<info>
+				<text>TEST</text>
+				<title><![CDATA[MÍN SEATTLE]]></title>
+				<link><![CDATA[http://www.icelandair.is/destinations/flights/item232576/?utm_source=visir.is&utm_medium=banner&utm_content=M%C3%BCnchen&utm_campaign=Borgarherfer%C3%B0]]></link>
+				<video>/ads/XZ/iceair/Seattle_Tourist_video_F8_768K.flv</video>
+			</info>
+		</item>
+		<item id="3" type="text_with_image">
+			<info>
+				<text><![CDATA[Ferðalag er þroskandi fermingargjöf]]></text>
+				<title><![CDATA[FERMINGAR-<br>GJAFABRÉF]]></title>
+				<link><![CDATA[https://www.icelandair.is/offers-and-bookings/book-gift-certificate/book-gift-certificate/?utm_source=visir.is&utm_medium=banner&utm_content=M%C3%BCnchen&utm_campaign=Borgarherfer%C3%B0]]></link>
+				<image><![CDATA[http://3.latest.icelandairdev.appspot.com/images/contentImage.jpg]]></image>
+			</info>
+		</item>
+	</content>
+</data>
+

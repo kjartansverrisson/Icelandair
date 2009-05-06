@@ -1,0 +1,25 @@
+application: icelandairdev
+version: 3
+runtime: python
+api_version: 1
+default_expiration: "6h"
+
+handlers:
+- url: /images
+  static_dir: images
+  
+- url: /static
+  static_dir: static
+  
+- url: /crossdomain\.xml
+  static_files: views/crossdomain.xml
+  upload: views/crossdomain.xml
+  expiration: "1d"
+  
+- url: /borgarblod.xml
+  static_files: views/borgarblod.xml
+  upload: views/borgarblod.xml
+  expiration: "5m"
+  
+- url: /.*
+  script: main.py

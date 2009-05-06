@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<blod>
+	<blad id="1">
+		<borg>
+			<img>http://icelandairdev.appspot.com/images/koben.jpg</img>
+			<fyrirsogn><![CDATA[MÍN<br />KÖBEN]]></fyrirsogn>
+			<texti><![CDATA[Flug aðra leiðina frá<br /><b><font color="#F39504">14.900 kr.</font></b>]]></texti>
+			<linkur><![CDATA[http://www.icelandair.is/destinations/flights/item13101/flug-til-kaupmannahafnar/?utm_source=visir.is&utm_medium=banner&utm_campaign=Borgarherfer%C3%B0]]></linkur>                                        
+		</borg>                                                                 
+		<borg>                                                                  
+			<img>http://icelandairdev.appspot.com/images/barcelona.jpg</img>                                              
+			<fyrirsogn><![CDATA[MÍN<br />BARCELONA]]></fyrirsogn>                  
+			<texti><![CDATA[Flug aðra leiðina frá<br /><b><font color="#F39504">17.300 kr.</font></b>]]></texti>
+			<linkur><![CDATA[http://www.icelandair.is/destinations/flights/item13097/flug-til-barcelona/?utm_source=visir.is&utm_medium=banner&utm_campaign=Borgarherfer%C3%B0]]></linkur>                                        
+		</borg>                                                                 
+		<borg>                                                                  
+			<img>http://icelandairdev.appspot.com/images/minniop.jpg</img>                                              
+			<fyrirsogn><![CDATA[MÍN<br />MINNEAPOLIS]]></fyrirsogn>                
+			<texti><![CDATA[Flug aðra leiðina frá<br /><b><font color="#F39504">29.720 kr.</font></b>]]></texti>
+			<linkur><![CDATA[http://www.icelandair.is/destinations/flights/item13090/flug-til-minneapolis-st-paul/?utm_source=visir.is&utm_medium=banner&utm_campaign=Borgarherfer%C3%B0]]></linkur>                                        
+		</borg>                                                                 
+		<borg>                                                                  
+			<img>http://icelandairdev.appspot.com/images/toronto.jpg</img>                                              
+			<fyrirsogn><![CDATA[MÍN<br />TORONTO]]></fyrirsogn>            
+			<texti><![CDATA[Flug aðra leiðina frá<br /><b><font color="#F39504">25.400 kr.</font></b>]]></texti>
+			<linkur><![CDATA[http://www.icelandair.is/destinations/flights/item155964/flug-til-toronto/?utm_source=visir.is&utm_medium=banner&utm_campaign=Borgarherfer%C3%B0]]></linkur>
+		</borg>
+	</blad>
+	<rein>
+		<img>http://icelandairdev.appspot.com/images/barcelona_minn_forsida.jpg</img>
+		<linkur><![CDATA[http://icelandairdev.appspot.com]]></linkur>
+	</rein>
+</blod>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<blod>
+	<blad id="1">
+		<borgir imgBackgroundColor="0xef970d" >
+			<borg>
+				<img>http://icelandairdev.appspot.com/images/koben.jpg</img>
+				<fyrirsogn><![CDATA[MÍN<br />KÖBEN]]></fyrirsogn>
+				<texti><![CDATA[Flug aðra leiðina frá<br /><b><font color="#F39504">14.900 kr.</font></b>]]></texti>
+				<linkur><![CDATA[http://www.icelandair.is/destinations/flights/item13101/flug-til-kaupmannahafnar/?utm_source=visir.is&utm_medium=banner&utm_campaign=Borgarherfer%C3%B0]]></linkur>                                        
+			</borg>                                                                 
+			<borg>                                                                  
+				<img>http://icelandairdev.appspot.com/images/barcelona.jpg</img>                                              
+				<fyrirsogn><![CDATA[MÍN<br />BARCELONA]]></fyrirsogn>                  
+				<texti><![CDATA[Flug aðra leiðina frá<br /><b><font color="#F39504">17.300 kr.</font></b>]]></texti>
+				<linkur><![CDATA[http://www.icelandair.is/destinations/flights/item13097/flug-til-barcelona/?utm_source=visir.is&utm_medium=banner&utm_campaign=Borgarherfer%C3%B0]]></linkur>                                        
+			</borg>                                                                 
+		</borgir>
+		<rein>
+			<img>http://icelandairdev.appspot.com/images/barcelona_minn_forsida.jpg</img>
+			<linkur><![CDATA[http://icelandairdev.appspot.com]]></linkur>
+		</rein>
+		<aukatexti>
+			<texti><![CDATA[Ef þu tekur þatt i Borgarlukkuleik Icelandair áttu kost a þvi ad vinna 2 flugmiða til Evrópu.]]></texti>
+			<linkur>http://www.icelandair.is</linkur>
+		</aukatexti>
+	</blad>
+	<startSWF>
+		<item>mini_ferdablad.swf</item>
+		<item>mini_vinnaferd.swf</item>
+	</startSWF>
+</blod>
+
